@@ -1,0 +1,3 @@
+PENTING!! PENTING!! PENTING!! PENTING!! PENTING!! PENTING!! PENTING!! PENTING!! PENTING!! PENTING!! 
+
+Sebelum menjalankan kodenya, kalian HARUS memastikan bahwa package "pycryptodome" sudah terinstall.
